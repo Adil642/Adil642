@@ -117,8 +117,7 @@ const adil = {
 ## 🎬 Fun Facts
 
 - 🎥 Movie enthusiast
-- 💪 Gym lover
-- 🎮 Enjoy AAA games
+- 🎮 Enjoy video games
 - 📚 Love learning new technologies
 - ☕ Coffee + Coding = Productivity
 
