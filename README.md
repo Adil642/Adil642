@@ -1,27 +1,137 @@
+<h1 align="center">Hi 👋, I'm Adil Khan</h1>
 
-<h1 align="center">Hi 👋, I'm Adil</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">
+Full Stack Developer • NSUT • Web Developer • DSA Enthusiast
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adil642&label=Profile%20views&color=0e75b6&style=flat" alt="adil642" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adil642" alt="adil642" /></a> </p>
-
-- 🔭 I’m currently working on **web development & its integration with AI**
-
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **adilk78629@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/adil2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adil2024" height="30" width="40" /></a>
+<p align="center">
+<img src="https://github.com/Adil642.png" width="180" style="border-radius:50%;" alt="Adil"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Adil642&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adil642&show_icons=true&locale=en&layout=compact" alt="adil642" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adil642&show_icons=true&locale=en" alt="adil642" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adil642&" alt="adil642" /></p>
+```javascript
+const adil = {
+    location: "New Delhi, India",
+    education: "Netaji Subhas University of Technology (NSUT)",
+    role: "Full Stack Developer",
+    learning: ["React", "Node.js", "PostgreSQL"],
+    languages: ["JavaScript", "C++", "Python"],
+    interests: [
+        "Web Development",
+        "Artificial Intelligence",
+        "Open Source",
+        "Cinema",
+        "Gaming"
+    ]
+};
+```
+
+- 🔭 Currently building **Full Stack Web Applications**
+- 🌱 Learning **React & Backend Development**
+- 💬 Ask me about **JavaScript, Node.js, Express, PostgreSQL**
+- 📫 Reach me at **adilk78629@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://leetcode.com/u/adil2024/">
+<img src="https://cdn.simpleicons.org/leetcode" height="45"/>
+</a>
+
+<a href="https://github.com/Adil642">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,postgres,mysql,cpp,python,git,github,vscode,postman" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Adil642&show_icons=true&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Adil642&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adil642&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Adil642&theme=tokyonight&no-frame=true&margin-w=15" />
+
+</p>
+
+---
+
+## 📌 Current Goals
+
+- 🚀 Become a Full Stack Developer
+- 💻 Build production-ready MERN applications
+- 🧠 Master Data Structures & Algorithms
+- 🤖 Integrate AI into web applications
+- 🌍 Contribute to Open Source
+
+---
+
+## 🎬 Fun Facts
+
+- 🎥 Movie enthusiast
+- 💪 Gym lover
+- 🎮 Enjoy AAA games
+- ☕ Coffee + Coding = Productivity
+- 🌙 Love late-night coding sessions
+
+---
+
+<p align="center">
+
+### Thanks for visiting! ⭐
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</p>
