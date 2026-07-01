@@ -22,40 +22,40 @@ Full Stack Developer • NSUT • Web Developer • DSA Enthusiast
 
 ```javascript
 const adil = {
-    name: "Adil Khan",
-    location: "New Delhi, India",
+  name: "Adil Khan",
+  location: "New Delhi, India",
 
-    education: {
-        university: "Netaji Subhas University of Technology",
-        degree: "B.Tech",
-        branch: "Instrumentation & Control Engineering"
-    },
+  education: {
+    university: "Netaji Subhas University of Technology",
+    degree: "B.Tech",
+    branch: "Instrumentation & Control Engineering"
+  },
 
-    role: "Full Stack Developer",
+  role: "Full Stack Developer",
 
-    currentlyLearning: [
-        "React",
-        "Node.js",
-        "PostgreSQL"
-    ],
+  currentlyLearning: [
+    "React",
+    "Node.js",
+    "PostgreSQL"
+  ],
 
-    languages: [
-        "JavaScript",
-        "C++",
-        "Python"
-    ],
+  languages: [
+    "JavaScript",
+    "C++",
+    "Python"
+  ],
 
-    interests: [
-        "Web Development",
-        "Artificial Intelligence",
-        "Open Source",
-        "Cinema",
-        "Gaming"
-    ]
+  interests: [
+    "Web Development",
+    "Artificial Intelligence",
+    "Open Source",
+    "Cinema",
+    "Gaming"
+  ]
 };
 ```
 
-- 🎓 B.Tech Student at **NSUT**
+- 🎓 B.Tech Student at **Netaji Subhas University of Technology (NSUT)**
 - 🔭 Currently working on **Web Development & AI Integration**
 - 🌱 Currently learning **React**
 - 💬 Ask me about **JavaScript, Node.js, Express & PostgreSQL**
@@ -97,17 +97,10 @@ const adil = {
 
 ## 🚀 Featured Projects
 
-### 🌍 Travel Tracker
-Track countries you've visited using **Node.js**, **Express**, and **PostgreSQL**.
-
-### 🦠 COVID Dashboard
-A real-time COVID-19 dashboard built using REST APIs.
-
-### 🎲 Dice Royale
-A multiplayer browser-based dice game with multiple game modes.
-
-### 💼 Personal Portfolio
-A modern responsive portfolio showcasing my projects and skills.
+| Project | Description | Tech |
+|---------|-------------|------|
+| 💼 **[Personal Portfolio](https://v0-personal-portfolio-6h.vercel.app/)** | A modern, responsive portfolio showcasing my projects, skills, and experience. | HTML • CSS • JavaScript |
+| 🎲 **[Dice Game](https://adil642.github.io/dice-game/)** | A fun browser-based dice game with dynamic gameplay built using JavaScript. | HTML • CSS • JavaScript |
 
 ---
 
@@ -139,7 +132,7 @@ A modern responsive portfolio showcasing my projects and skills.
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
 *"Code. Learn. Build. Repeat."*
 
